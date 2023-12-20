@@ -1,0 +1,190 @@
+{
+  "tables": [
+    {
+      "name": "Table 101",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Sala 1"
+    },
+    {
+      "name": "Table 1",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Sala 1"
+    },
+    {
+      "name": "Table 2",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Sala 1"
+    },
+    {
+      "name": "Table 3",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Sala 1"
+    },
+    {
+      "name": "Table 4",
+      "capacity": 4,
+      "isAvailable": true,
+      "location": "Sala 1"
+    },
+    {
+      "name": "Table 104",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Sala 1"
+    },
+    {
+      "name": "Table 5",
+      "capacity": 4,
+      "isAvailable": true,
+      "location": "Sala 1"
+    },
+    {
+      "name": "Table 6",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Sala 1"
+    },
+    {
+      "name": "Table 7",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Sala Vini"
+    },
+    {
+      "name": "Table 8",
+      "capacity": 4,
+      "isAvailable": true,
+      "location": "Sala Vini"
+    },
+    {
+      "name": "Table 108",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Sala 1"
+    },
+    {
+      "name": "Table 9",
+      "capacity": 4,
+      "isAvailable": true,
+      "location": "Sala 2"
+    },
+    {
+      "name": "Table 109",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Sala 2"
+    },
+    {
+      "name": "Table 10",
+      "capacity": 4,
+      "isAvailable": true,
+      "location": "Sala 2"
+    },
+    {
+      "name": "Table 11",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Sala 2"
+    },
+    {
+      "name": "Table 12",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Sala 2"
+    },
+    {
+      "name": "Table 13",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Sala 3"
+    },
+    {
+      "name": "Table 14",
+      "capacity": 8,
+      "isAvailable": true,
+      "location": "Sala 3"
+    },
+    {
+      "name": "Table 15",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Sala 3"
+    },
+    {
+      "name": "Table 16",
+      "capacity": 4,
+      "isAvailable": true,
+      "location": "Sala 3"
+    },
+    {
+      "name": "Table 17",
+      "capacity": 4,
+      "isAvailable": true,
+      "location": "Sala 3"
+    },
+    {
+      "name": "Table 18",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Sala 3"
+    },
+    {
+      "name": "Table 19",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Sala 3"
+    },
+    {
+      "name": "Table 20",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Sala 3"
+    },
+    {
+      "name": "Table 21",
+      "capacity": 6,
+      "isAvailable": true,
+      "location": "Pedana"
+    },
+    {
+      "name": "Table 22",
+      "capacity": 4,
+      "isAvailable": true,
+      "location": "Pedana"
+    },
+    {
+      "name": "Table 23",
+      "capacity": 4,
+      "isAvailable": true,
+      "location": "Pedana"
+    },
+    {
+      "name": "Table 24",
+      "capacity": 4,
+      "isAvailable": true,
+      "location": "Pedana"
+    },
+    {
+      "name": "Table 25",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Pedana"
+    },
+    {
+      "name": "Table 26",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Pedana"
+    },
+    {
+      "name": "Table 27",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Sala 3"
+    }
+  ]
+}
